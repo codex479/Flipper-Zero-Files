@@ -2,7 +2,7 @@
 
 This is my personal storage of the files I acquire with my flipper zero, this repo serves as my public cloud storage.
 
-## Legal & Licensing
+## Legal & Licensing [STOP AND READ BEFORE USING FILES]
 This repository is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International**.
 
 - **Attribution:** You must credit the source if you share this data.
